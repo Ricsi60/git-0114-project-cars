@@ -1,0 +1,32 @@
+[
+    {
+        "marka": "Ford",
+        "tipus": "Focus",
+        "evjarat": 2005
+    },
+    {
+        "marka": "Suzuki",
+        "tipus": "Swift",
+        "evjarat": 2007
+    },
+    {
+        "marka": "Audi",
+        "tipus": "A3",
+        "evjarat": 1999
+    } ,
+    {
+        "marka": "Fiat",
+        "tipus": "Punto",
+        "evjarat": 2010
+    },
+    {
+        "marka": "Renault",
+        "tipus": "Clio",
+        "evjarat": 2019
+    } ,
+    {
+        "marka": "Honda",
+        "tipus": "Accord",
+        "evjarat": 2004
+    }
+]
